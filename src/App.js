@@ -106,7 +106,23 @@ const DRIVE_MAP = {
   "HYN": "1UzEd_8EsHnVqkiUIIIXdh7LTaOsIuvbb",
   "ww": "1FHF8toJ_aXnpiAdWeUbkQJTeuyWrFRzp",
   "YKL": "11MNiKZJxovxe78NYXS6kriY2PDq8y5Rk",
-  "YYL": "1uhNx67LkA9JzXNBJsbyO50iKE7dIWv3k"
+  "YYL": "1uhNx67LkA9JzXNBJsbyO50iKE7dIWv3k",
+  
+  "SYK": "1Bonhu9iTsCWzWCv7T6hBeiTNT3Bgx6Z_",
+  "LLT": "1FbrRydvYkq9pArMtC_N8ZuUN-QtTirEf",
+  "CTT": "1bA-6FO9fj0vA94PW6GVn3smW0Hkucn2g",
+  "HLL": "1ce127jAHJh-xfAAu6QbZu5ha7QLObImB",
+  "KKC": "1_DRRx3taMxuWiIWic2bF4yWRM8N6P5ja",
+  "KYY": "1SXS7eh8zTAvFzXDcfLQk9iB_dGmnKyOE",
+  "EC": "1v2eiiiuaDTlzfEiteOPvnn4dHLt-X6me",
+  "SCC": "1GD0Bz4b70zRTxAH2FDPlfWx04kntPTaR",
+  "CYX": "1NMrIHfKIa2kjf-FIo3BN0GrBASvJMIs-",
+  "LS": "1czjLaXb8f7GApQ7SQ6lbSF_j_CyfGlXu",
+  "WSL": "1VyQjCZssloT4mhyVSLw5NyV2QdiauBUy",
+  "YWH": "1Kk748PMvfTorBsbR6diK1oKfyM12fozh",
+  "WKL": "1mQwCFGkl6QDsrUDtnk4A6mB0kZXSBnb9",
+  "JL": "1ib3-hfr2USKidiK2cNEJVe8pdy8m_JOK",
+  "OSL": "1--bL62wPWzLrjz6p7ZwzE-p1yUgdLbbX"
 };
 
 // 定義房間常亮
@@ -216,13 +232,13 @@ const initialStaffData = [
   { id: 82, name: "劉國熙", engName: "Mr. Hayes Lau", room: "校務處", ext: "318", initial: "HL", dept: "校務處" },
 
   // 輔導/社工
-  { id: 83, name: "周小箋", engName: "Ms. Chow Siu Chin", room: "Guidance Room", ext: "320", initial: "", dept: "輔導" },
-  { id: 84, name: "莊玉蘭", engName: "Ms. Chong Yuk Lan", room: "Guidance Room", ext: "320", initial: "", dept: "輔導" },
-  { id: 85, name: "余嘉儀", engName: "Ms. Yu Ka Yee", room: "Guidance Room", ext: "320", initial: "", dept: "輔導" },
-  { id: 86, name: "廖康年", engName: "Mr. Liu Hong Lin", room: "社工室", ext: "321", initial: "", dept: "社工" },
-  { id: 87, name: "陳家傑", engName: "Mr. Chan Ka Kit", room: "社工室", ext: "332", initial: "", dept: "社工" },
-  { id: 88, name: "謝朗齡", engName: "Ms. Tse Long Ling", room: "社工室", ext: "336", initial: "", dept: "社工" },
-  { id: 89, name: "鄧卓彤", engName: "Ms. Tang Cheuk Tung", room: "社工室", ext: "340", initial: "", dept: "社工" },
+  { id: 83, name: "周小箋", engName: "Ms. Chow Siu Chin", room: "Guidance Room", ext: "320", initial: "SCC", dept: "輔導" },
+  { id: 84, name: "莊玉蘭", engName: "Ms. Chong Yuk Lan", room: "Guidance Room", ext: "320", initial: "EC", dept: "輔導" },
+  { id: 85, name: "余嘉儀", engName: "Ms. Yu Ka Yee", room: "Guidance Room", ext: "320", initial: "KYY", dept: "輔導" },
+  { id: 86, name: "廖康年", engName: "Mr. Liu Hong Lin", room: "社工室", ext: "321", initial: "HLL", dept: "社工" },
+  { id: 87, name: "陳家傑", engName: "Mr. Chan Ka Kit", room: "社工室", ext: "332", initial: "KKC", dept: "社工" },
+  { id: 88, name: "謝朗齡", engName: "Ms. Tse Long Ling", room: "社工室", ext: "336", initial: "LLT", dept: "社工" },
+  { id: 89, name: "鄧卓彤", engName: "Ms. Tang Cheuk Tung", room: "社工室", ext: "340", initial: "CTT", dept: "社工" },
 
   // 特別室
   { id: 90, name: "School Chaplain", engName: "1/F Chaplain", room: "Special Room", ext: "323", initial: "", dept: "特別室" },
