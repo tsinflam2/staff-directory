@@ -81,7 +81,6 @@ const DRIVE_MAP = {
   "SYY": "1Z3FTd3QAHb2RLY-DQKmxOHaZOWK7OBh8",
   "SSL": "1_efhWHOgOnyrzt4vA1a7YXlUQPRV_ED4",
   "CKL": "1_sbkenYuI7ptM3igzeJhkaSftmYqO1Eq",
-  "CTT": "1eEzFjqzjBM4J29AgGAQ9ly6gBVT9E6Xm",
   "SCP": "1hi9_RHA74YlycWoPLkjESmWcNXTqd_1q",
   "CKT": "1laILM7MnrtghSUliG-4IvzzJzdj7hrIu",
   "YLC": "1nWduf-iW59pGmI0s-bJOPD557a8WF-IT",
