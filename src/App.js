@@ -110,7 +110,8 @@ const DRIVE_MAP = {
   
   "SYK": "1Bonhu9iTsCWzWCv7T6hBeiTNT3Bgx6Z_",
   "LLT": "1FbrRydvYkq9pArMtC_N8ZuUN-QtTirEf",
-  "CTT": "1eEzFjqzjBM4J29AgGAQ9ly6gBVT9E6Xm",
+  "CTT1": "1eEzFjqzjBM4J29AgGAQ9ly6gBVT9E6Xm",
+  "CTT2": "1bA-6FO9fj0vA94PW6GVn3smW0Hkucn2g",
   "HLL": "1ce127jAHJh-xfAAu6QbZu5ha7QLObImB",
   "KKC": "1_DRRx3taMxuWiIWic2bF4yWRM8N6P5ja",
   "KYY": "1SXS7eh8zTAvFzXDcfLQk9iB_dGmnKyOE",
@@ -200,7 +201,7 @@ const initialStaffData = [
   { id: 60, name: "羅蕾", engName: "Ms. Luo Lei", room: "108室數理房", ext: "327", initial: "LL", dept: ROOM_C_NAME },
   { id: 61, name: "蕭淑芬", engName: "Ms. Siu Shuk Fan", room: "108室數理房", ext: "327", initial: "SFS", dept: ROOM_C_NAME },
   { id: 62, name: "鄧淑明", engName: "Ms. Tang Suk Ming", room: "108室數理房", ext: "327", initial: "SMT", dept: ROOM_C_NAME },
-  { id: 63, name: "謝昌達", engName: "Mr. Tse Cheong Tat", room: "108室數理房", ext: "327", initial: "CTT", dept: ROOM_C_NAME },
+  { id: 63, name: "謝昌達", engName: "Mr. Tse Cheong Tat", room: "108室數理房", ext: "327", initial: "CTT1", dept: ROOM_C_NAME },
   { id: 64, name: "楊浩鈞", engName: "Mr. Yeung Ho Kwan", room: "108室數理房", ext: "349", initial: "HKY", dept: ROOM_C_NAME },
 
   // 圖書館
@@ -238,7 +239,7 @@ const initialStaffData = [
   { id: 86, name: "廖康年", engName: "Mr. Liu Hong Lin", room: "社工室", ext: "321", initial: "HLL", dept: "社工" },
   { id: 87, name: "陳家傑", engName: "Mr. Chan Ka Kit", room: "社工室", ext: "332", initial: "KKC", dept: "社工" },
   { id: 88, name: "謝朗齡", engName: "Ms. Tse Long Ling", room: "社工室", ext: "336", initial: "LLT", dept: "社工" },
-  { id: 89, name: "鄧卓彤", engName: "Ms. Tang Cheuk Tung", room: "社工室", ext: "340", initial: "CTT", dept: "社工" },
+  { id: 89, name: "鄧卓彤", engName: "Ms. Tang Cheuk Tung", room: "社工室", ext: "340", initial: "CTT2", dept: "社工" },
 
   // 特別室
   { id: 90, name: "School Chaplain", engName: "1/F Chaplain", room: "Special Room", ext: "323", initial: "", dept: "特別室" },
